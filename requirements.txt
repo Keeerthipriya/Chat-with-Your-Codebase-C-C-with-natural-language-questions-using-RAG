@@ -1,0 +1,15 @@
+streamlit
+streamlit_extras
+streamlit_mermaid
+pyttsx3
+faiss-cpu
+chromadb
+langchain
+langchain-community
+langchain-core
+langchainhub
+sentence-transformers
+nomic
+ollama
+tiktoken
+python-dotenv
